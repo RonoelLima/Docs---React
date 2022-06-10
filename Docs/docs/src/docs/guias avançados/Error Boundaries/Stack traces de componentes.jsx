@@ -1,0 +1,1 @@
+//O React 16 registra todos os erros ocorridos durante a renderização no console em desenvolvimento, mesmo que a aplicação absorva-os acidentalmente. Além da mensagem de erro e a stack do JavaScript, ele também fornece as stack traces do componente. 
